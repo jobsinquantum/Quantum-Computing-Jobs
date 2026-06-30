@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Quantum Computing Jobs — 2026
 
-<sub><small>Last updated: Jun 30, 2026 at 17:54 UTC</small></sub>
+<sub><small>Last updated: Jun 30, 2026 at 21:19 UTC</small></sub>
 
 Daily quantum computing jobs curated by Jobs in Quantum.
 Updated daily by [Jobs in Quantum](https://jobsinquantum.com?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs).
