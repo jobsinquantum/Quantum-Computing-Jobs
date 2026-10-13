@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Quantum Computing Jobs — 2026
 
-<sub><small>Last updated: Oct 12, 2026 at 21:16 UTC</small></sub>
+<sub><small>Last updated: Oct 13, 2026 at 19:14 UTC</small></sub>
 
 Daily quantum computing jobs curated by Jobs in Quantum.
 Updated daily by [Jobs in Quantum](https://jobsinquantum.com?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs).
@@ -12,6 +12,9 @@ Visit [Jobs in Quantum](https://jobsinquantum.com?utm_source=github&utm_medium=r
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[IonQ](https://jobsinquantum.com/jobs/ionq-senior-spacecraft-hardware-technician-e85bc8c9?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Senior Spacecraft Hardware Technician](https://jobsinquantum.com/jobs/ionq-senior-spacecraft-hardware-technician-e85bc8c9?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Louisville, Colorado, United States | On Site | Full Time | Oct 12 |
+| **[IonQ](https://jobsinquantum.com/jobs/ionq-senior-account-executive-daas-and-satellite-systems-15187919?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Senior Account Executive, DaaS & Satellite Systems](https://jobsinquantum.com/jobs/ionq-senior-account-executive-daas-and-satellite-systems-15187919?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Remote, US; Washington, District of Columbia, United States | Remote | Full Time | Oct 12 |
+| **[IonQ](https://jobsinquantum.com/jobs/ionq-npi-manufacturing-engineer-control-electronics-67c5aab3?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[NPI Manufacturing Engineer - Control Electronics](https://jobsinquantum.com/jobs/ionq-npi-manufacturing-engineer-control-electronics-67c5aab3?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | College Park, Maryland, United States | On Site | Full Time | Oct 12 |
 | **[IonQ](https://jobsinquantum.com/jobs/ionq-senior-manager-resilience-engineering-and-operations-6266156e?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Senior Manager, Resilience Engineering & Operations](https://jobsinquantum.com/jobs/ionq-senior-manager-resilience-engineering-and-operations-6266156e?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Bothell, Washington, United States | On Site | Full Time | Oct 12 |
 | **[Atom Computing](https://jobsinquantum.com/jobs/atom-computing-research-intern-01f09a09?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Research Intern](https://jobsinquantum.com/jobs/atom-computing-research-intern-01f09a09?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Berkeley, CA | On Site | intern | Oct 9 |
 | **[IonQ](https://jobsinquantum.com/jobs/ionq-director-real-estate-cec28fc0?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Director, Real Estate](https://jobsinquantum.com/jobs/ionq-director-real-estate-cec28fc0?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Remote, US | Remote | Full Time | Oct 9 |
@@ -59,18 +62,15 @@ Visit [Jobs in Quantum](https://jobsinquantum.com?utm_source=github&utm_medium=r
 | **[IonQ](https://jobsinquantum.com/jobs/ionq-staff-engineer-cryogenics-9ec753a8?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Staff Engineer - Cryogenics](https://jobsinquantum.com/jobs/ionq-staff-engineer-cryogenics-9ec753a8?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Boston, Massachusetts, United States | On Site | Full Time | Sep 29 |
 | **[Atom Computing](https://jobsinquantum.com/jobs/atom-computing-principal-opto-mechanical-engineer-03233c92?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Principal Opto-Mechanical Engineer](https://jobsinquantum.com/jobs/atom-computing-principal-opto-mechanical-engineer-03233c92?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Boulder, CO | On Site | Full Time | Sep 29 |
 | **[Atom Computing](https://jobsinquantum.com/jobs/atom-computing-senior-quantum-theorist-atomic-physics-focus-e6686db9?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Senior Quantum Theorist, Atomic Physics Focus](https://jobsinquantum.com/jobs/atom-computing-senior-quantum-theorist-atomic-physics-focus-e6686db9?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Berkeley, CA | On Site | Full Time | Sep 29 |
-| **[Atom Computing](https://jobsinquantum.com/jobs/atom-computing-senior-mechanical-engineer-instrumentation-hardware-23865654?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Senior Mechanical Engineer - Instrumentation Hardware](https://jobsinquantum.com/jobs/atom-computing-senior-mechanical-engineer-instrumentation-hardware-23865654?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Boulder, CO | On Site | Full Time | Sep 28 |
-| **[IonQ](https://jobsinquantum.com/jobs/ionq-associate-general-counsel-product-1048ec0c?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Associate General Counsel, Product](https://jobsinquantum.com/jobs/ionq-associate-general-counsel-product-1048ec0c?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Remote, US | Remote | Full Time | Sep 28 |
-| **[IonQ](https://jobsinquantum.com/jobs/ionq-associate-general-counsel-product-a196d288?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Associate General Counsel, Product](https://jobsinquantum.com/jobs/ionq-associate-general-counsel-product-a196d288?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Remote, US | Remote | Full Time | Sep 28 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 4 companies | 1 salary ranges listed
+**Current Stats:** 50 jobs | 12% remote | 4 companies | 1 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-10-12 archive](archive/2026-10-12.md)
+- [2026-10-13 archive](archive/2026-10-13.md)
 
 ## About This Repository
 
