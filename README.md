@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Quantum Computing Jobs — 2026
 
-<sub><small>Last updated: Oct 20, 2026 at 17:00 UTC</small></sub>
+<sub><small>Last updated: Oct 22, 2026 at 17:06 UTC</small></sub>
 
 Daily quantum computing jobs curated by Jobs in Quantum.
 Updated daily by [Jobs in Quantum](https://jobsinquantum.com?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs).
@@ -12,6 +12,13 @@ Visit [Jobs in Quantum](https://jobsinquantum.com?utm_source=github&utm_medium=r
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[IonQ](https://jobsinquantum.com/jobs/ionq-sr-netsuite-business-systems-analyst-administrator-e9dd7095?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Sr. Netsuite Business Systems Analyst/Administrator](https://jobsinquantum.com/jobs/ionq-sr-netsuite-business-systems-analyst-administrator-e9dd7095?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | College Park, Maryland, United States | On Site | Full Time | Oct 22 |
+| **[IonQ](https://jobsinquantum.com/jobs/ionq-staff-supplier-quality-engineer-9ae945a8?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Staff Supplier Quality Engineer](https://jobsinquantum.com/jobs/ionq-staff-supplier-quality-engineer-9ae945a8?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Oxford, England, United Kingdom | On Site | Full Time | Oct 21 |
+| **[IonQ](https://jobsinquantum.com/jobs/ionq-senior-receiving-inspector-ce36eac9?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Senior Receiving Inspector](https://jobsinquantum.com/jobs/ionq-senior-receiving-inspector-ce36eac9?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Bothell, Washington, United States | On Site | Full Time | Oct 21 |
+| **[IonQ](https://jobsinquantum.com/jobs/ionq-senior-silicon-validation-engineer-9d7b4848?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Senior Silicon Validation Engineer](https://jobsinquantum.com/jobs/ionq-senior-silicon-validation-engineer-9d7b4848?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Oxford, England, United Kingdom | On Site | Full Time | Oct 21 |
+| **[IonQ](https://jobsinquantum.com/jobs/ionq-account-executive-nro-and-combatant-commands-3c60f15e?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Account Executive, NRO & Combatant Commands](https://jobsinquantum.com/jobs/ionq-account-executive-nro-and-combatant-commands-3c60f15e?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | College Park, Maryland, United States | On Site | Full Time | Oct 20 |
+| **[IonQ](https://jobsinquantum.com/jobs/ionq-senior-account-executive-intel-and-fedciv-fcc15987?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Senior Account Executive, Intel & FedCiv](https://jobsinquantum.com/jobs/ionq-senior-account-executive-intel-and-fedciv-fcc15987?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | College Park, Maryland, United States | On Site | Full Time | Oct 20 |
+| **[IonQ](https://jobsinquantum.com/jobs/ionq-staff-field-engineer-federal-6b731a64?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Staff Field Engineer, Federal](https://jobsinquantum.com/jobs/ionq-staff-field-engineer-federal-6b731a64?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | College Park, Maryland, United States; Remote, US | Remote | Full Time | Oct 20 |
 | **[IonQ](https://jobsinquantum.com/jobs/ionq-senior-cryogenic-engineer-f07c7d31?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Senior Cryogenic Engineer](https://jobsinquantum.com/jobs/ionq-senior-cryogenic-engineer-f07c7d31?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Geneva, Switzerland | On Site | Full Time | Oct 19 |
 | **[IonQ](https://jobsinquantum.com/jobs/ionq-associate-general-counsel-product-partnerships-71601b7b?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Associate General Counsel - Product - Partnerships](https://jobsinquantum.com/jobs/ionq-associate-general-counsel-product-partnerships-71601b7b?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Remote, US | Remote | Full Time | Oct 19 |
 | **[IonQ](https://jobsinquantum.com/jobs/ionq-help-desk-analyst-iii-eff21f30?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Help Desk Analyst III](https://jobsinquantum.com/jobs/ionq-help-desk-analyst-iii-eff21f30?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | College Park, Maryland, United States | On Site | Full Time | Oct 19 |
@@ -55,22 +62,15 @@ Visit [Jobs in Quantum](https://jobsinquantum.com?utm_source=github&utm_medium=r
 | **[Atom Computing](https://jobsinquantum.com/jobs/atom-computing-senior-system-integration-and-test-engineer-b629a3b9?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Senior System Integration & Test Engineer](https://jobsinquantum.com/jobs/atom-computing-senior-system-integration-and-test-engineer-b629a3b9?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Boulder, CO | On Site | Full Time | Oct 6 |
 | **[IonQ](https://jobsinquantum.com/jobs/ionq-quantum-network-support-engineer-54353f32?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Quantum Network Support Engineer](https://jobsinquantum.com/jobs/ionq-quantum-network-support-engineer-54353f32?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Chattanooga, Tennessee, United States | On Site | Full Time | Oct 6 |
 | **[IonQ](https://jobsinquantum.com/jobs/ionq-technical-communications-writer-quantum-r-and-d-ea933dcb?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Technical Communications Writer - Quantum R&D](https://jobsinquantum.com/jobs/ionq-technical-communications-writer-quantum-r-and-d-ea933dcb?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Boston, Massachusetts, United States | On Site | Full Time | Oct 6 |
-| **[IonQ](https://jobsinquantum.com/jobs/ionq-senior-quantum-field-engineer-singapore-365f3d37?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Senior Quantum Field Engineer - Singapore](https://jobsinquantum.com/jobs/ionq-senior-quantum-field-engineer-singapore-365f3d37?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Singapore | On Site | Full Time | Oct 6 |
-| **[IonQ](https://jobsinquantum.com/jobs/ionq-help-desk-analyst-iii-6ada0507?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Help Desk Analyst III](https://jobsinquantum.com/jobs/ionq-help-desk-analyst-iii-6ada0507?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Bothell, Washington, United States | On Site | Full Time | Oct 6 |
-| **[PsiQuantum](https://jobsinquantum.com/jobs/psiquantum-r-and-d-technician-bba3565f?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[R&D Technician](https://jobsinquantum.com/jobs/psiquantum-r-and-d-technician-bba3565f?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Palo Alto, California, United States | On Site | Full Time | Oct 5 |
-| **[IonQ](https://jobsinquantum.com/jobs/ionq-test-and-inspection-engineer-dbcd013f?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Test and Inspection Engineer](https://jobsinquantum.com/jobs/ionq-test-and-inspection-engineer-dbcd013f?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | College Park, Maryland, United States | On Site | Full Time | Oct 5 |
-| **[IonQ](https://jobsinquantum.com/jobs/ionq-technical-programme-manager-quantum-benchmarking-132c1240?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Technical Programme Manager, Quantum Benchmarking](https://jobsinquantum.com/jobs/ionq-technical-programme-manager-quantum-benchmarking-132c1240?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | College Park, Maryland, United States | On Site | Full Time | Oct 5 |
-| **[IonQ](https://jobsinquantum.com/jobs/ionq-senior-electrical-engineer-98bc1e1c?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Senior Electrical Engineer](https://jobsinquantum.com/jobs/ionq-senior-electrical-engineer-98bc1e1c?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | College Park, Maryland, United States | On Site | Full Time | Oct 5 |
-| **[IonQ](https://jobsinquantum.com/jobs/ionq-senior-mechanical-engineer-707c6527?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Senior Mechanical Engineer](https://jobsinquantum.com/jobs/ionq-senior-mechanical-engineer-707c6527?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Oxford, England, United Kingdom | On Site | Full Time | Oct 5 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 3 companies | 0 salary ranges listed
+**Current Stats:** 50 jobs | 12% remote | 3 companies | 3 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-10-20 archive](archive/2026-10-20.md)
+- [2026-10-22 archive](archive/2026-10-22.md)
 
 ## About This Repository
 
