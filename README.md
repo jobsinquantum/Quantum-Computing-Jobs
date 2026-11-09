@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Quantum Computing Jobs — 2026
 
-<sub><small>Last updated: Nov 8, 2026 at 17:55 UTC</small></sub>
+<sub><small>Last updated: Nov 9, 2026 at 22:17 UTC</small></sub>
 
 Daily quantum computing jobs curated by Jobs in Quantum.
 Updated daily by [Jobs in Quantum](https://jobsinquantum.com?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs).
@@ -12,8 +12,8 @@ Visit [Jobs in Quantum](https://jobsinquantum.com?utm_source=github&utm_medium=r
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
-| **[Ionq](https://jobsinquantum.com/jobs/ionq-technical-communications-writer-quantum-r-and-d-5071f2f7?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Technical Communications Writer - Quantum R&D](https://jobsinquantum.com/jobs/ionq-technical-communications-writer-quantum-r-and-d-5071f2f7?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Boston, Massachusetts, United States | On Site | Full Time | Nov 8 |
-| **[Ionq](https://jobsinquantum.com/jobs/ionq-technical-programme-manager-manufacturing-and-deployment-6ce42611?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Technical Programme Manager, Manufacturing and Deployment](https://jobsinquantum.com/jobs/ionq-technical-programme-manager-manufacturing-and-deployment-6ce42611?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Bothell, Washington, United States | On Site | Full Time | Nov 8 |
+| **[Ionq](https://jobsinquantum.com/jobs/ionq-technical-communications-writer-quantum-r-and-d-5071f2f7?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Technical Communications Writer - Quantum R&D](https://jobsinquantum.com/jobs/ionq-technical-communications-writer-quantum-r-and-d-5071f2f7?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Boston, Massachusetts, United States | On Site | Full Time | Nov 9 |
+| **[Ionq](https://jobsinquantum.com/jobs/ionq-technical-programme-manager-manufacturing-and-deployment-6ce42611?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Technical Programme Manager, Manufacturing and Deployment](https://jobsinquantum.com/jobs/ionq-technical-programme-manager-manufacturing-and-deployment-6ce42611?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Bothell, Washington, United States | On Site | Full Time | Nov 9 |
 | **[Atom Computing](https://jobsinquantum.com/jobs/atom-computing-optical-engineer-lens-designer-bbcdf960?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Optical Engineer - Lens Designer](https://jobsinquantum.com/jobs/atom-computing-optical-engineer-lens-designer-bbcdf960?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Boulder, CO | On Site | Full Time | Nov 6 |
 | **[Quantinuum](https://jobsinquantum.com/jobs/quantinuum-marketing-manager-middle-east-0bc9940f?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Marketing Manager (Middle East)](https://jobsinquantum.com/jobs/quantinuum-marketing-manager-middle-east-0bc9940f?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Dubai | On Site | Full Time | Nov 6 |
 | **[IonQ](https://jobsinquantum.com/jobs/ionq-senior-quantum-sales-director-daas-and-satellite-sales-emea-3c43a2da?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Senior Quantum Sales Director - DaaS & Satellite Sales, EMEA](https://jobsinquantum.com/jobs/ionq-senior-quantum-sales-director-daas-and-satellite-sales-emea-3c43a2da?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Geneva, Switzerland; Oxford, England, United Kingdom | On Site | Full Time | Nov 6 |
@@ -70,7 +70,7 @@ _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-08 archive](archive/2026-11-08.md)
+- [2026-11-09 archive](archive/2026-11-09.md)
 
 ## About This Repository
 
