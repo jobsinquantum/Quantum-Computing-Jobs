@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Quantum Computing Jobs — 2026
 
-<sub><small>Last updated: Nov 12, 2026 at 19:53 UTC</small></sub>
+<sub><small>Last updated: Nov 13, 2026 at 19:38 UTC</small></sub>
 
 Daily quantum computing jobs curated by Jobs in Quantum.
 Updated daily by [Jobs in Quantum](https://jobsinquantum.com?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs).
@@ -12,8 +12,10 @@ Visit [Jobs in Quantum](https://jobsinquantum.com?utm_source=github&utm_medium=r
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
-| **[Ionq](https://jobsinquantum.com/jobs/ionq-technical-communications-writer-quantum-r-and-d-5071f2f7?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Technical Communications Writer - Quantum R&D](https://jobsinquantum.com/jobs/ionq-technical-communications-writer-quantum-r-and-d-5071f2f7?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Boston, Massachusetts, United States | On Site | Full Time | Nov 12 |
-| **[Ionq](https://jobsinquantum.com/jobs/ionq-technical-programme-manager-manufacturing-and-deployment-6ce42611?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Technical Programme Manager, Manufacturing and Deployment](https://jobsinquantum.com/jobs/ionq-technical-programme-manager-manufacturing-and-deployment-6ce42611?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Bothell, Washington, United States | On Site | Full Time | Nov 12 |
+| **[Ionq](https://jobsinquantum.com/jobs/ionq-technical-communications-writer-quantum-r-and-d-5071f2f7?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Technical Communications Writer - Quantum R&D](https://jobsinquantum.com/jobs/ionq-technical-communications-writer-quantum-r-and-d-5071f2f7?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Boston, Massachusetts, United States | On Site | Full Time | Nov 13 |
+| **[Ionq](https://jobsinquantum.com/jobs/ionq-technical-programme-manager-manufacturing-and-deployment-6ce42611?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Technical Programme Manager, Manufacturing and Deployment](https://jobsinquantum.com/jobs/ionq-technical-programme-manager-manufacturing-and-deployment-6ce42611?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Bothell, Washington, United States | On Site | Full Time | Nov 13 |
+| **[Quantinuum](https://jobsinquantum.com/jobs/quantinuum-system-integration-build-manager-1126-caa141f9?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[System Integration Build Manager - 1126](https://jobsinquantum.com/jobs/quantinuum-system-integration-build-manager-1126-caa141f9?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | US Broomfield, CO | On Site | Full Time | Nov 12 |
+| **[Keysight Technologies](https://jobsinquantum.com/jobs/keysight-technologies-rf-engineer-intern-quantum-ba169079?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[RF Engineer Intern - Quantum](https://jobsinquantum.com/jobs/keysight-technologies-rf-engineer-intern-quantum-ba169079?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Santa Rosa, California | On Site | intern | Nov 12 |
 | **[Quantinuum](https://jobsinquantum.com/jobs/quantinuum-lead-electrical-engineer-1116-7448f148?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Lead Electrical Engineer - 1116](https://jobsinquantum.com/jobs/quantinuum-lead-electrical-engineer-1116-7448f148?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | US Broomfield, CO | On Site | Full Time | Nov 11 |
 | **[IonQ](https://jobsinquantum.com/jobs/ionq-social-media-specialist-c87b2e89?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Social Media Specialist](https://jobsinquantum.com/jobs/ionq-social-media-specialist-c87b2e89?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Bothell, Washington, United States; College Park, Maryland, United States; Remote, US | Remote | Full Time | Nov 11 |
 | **[Atom Computing](https://jobsinquantum.com/jobs/atom-computing-manager-devops-and-security-engineering-d1f1782e?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Manager, DevOps and Security Engineering](https://jobsinquantum.com/jobs/atom-computing-manager-devops-and-security-engineering-d1f1782e?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Boulder, CO | On Site | Full Time | Nov 11 |
@@ -60,8 +62,6 @@ Visit [Jobs in Quantum](https://jobsinquantum.com?utm_source=github&utm_medium=r
 | **[Infleqtion](https://jobsinquantum.com/jobs/infleqtion-executive-assistant-fa1c89a1?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Executive Assistant](https://jobsinquantum.com/jobs/infleqtion-executive-assistant-fa1c89a1?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Louisville, United States | On Site | Full Time | Nov 4 |
 | **[NVIDIA](https://jobsinquantum.com/jobs/nvidia-principal-applied-quantum-research-scientist-0de692cc?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Principal Applied Quantum Research Scientist](https://jobsinquantum.com/jobs/nvidia-principal-applied-quantum-research-scientist-0de692cc?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | US, WA, Redmond | On Site | Full Time | Nov 4 |
 | **[PsiQuantum](https://jobsinquantum.com/jobs/psiquantum-manager-passive-components-8b7a18c8?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Manager, Passive Components](https://jobsinquantum.com/jobs/psiquantum-manager-passive-components-8b7a18c8?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Palo Alto, California | On Site | Full Time | Nov 3 |
-| **[PsiQuantum](https://jobsinquantum.com/jobs/psiquantum-senior-it-asset-management-specialist-5cfeeb1e?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Senior IT Asset Management Specialist](https://jobsinquantum.com/jobs/psiquantum-senior-it-asset-management-specialist-5cfeeb1e?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Milpitas, California; Palo Alto, California | On Site | Full Time | Nov 3 |
-| **[Quantinuum](https://jobsinquantum.com/jobs/quantinuum-manufacturing-manager-1107-6591ec35?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Manufacturing Manager - 1107](https://jobsinquantum.com/jobs/quantinuum-manufacturing-manager-1107-6591ec35?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | US Broomfield, CO | On Site | Full Time | Nov 3 |
 
 ---
 
@@ -70,7 +70,7 @@ _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-12 archive](archive/2026-11-12.md)
+- [2026-11-13 archive](archive/2026-11-13.md)
 
 ## About This Repository
 
