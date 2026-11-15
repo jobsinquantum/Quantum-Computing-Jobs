@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Quantum Computing Jobs — 2026
 
-<sub><small>Last updated: Nov 14, 2026 at 17:58 UTC</small></sub>
+<sub><small>Last updated: Nov 15, 2026 at 18:47 UTC</small></sub>
 
 Daily quantum computing jobs curated by Jobs in Quantum.
 Updated daily by [Jobs in Quantum](https://jobsinquantum.com?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs).
@@ -12,8 +12,9 @@ Visit [Jobs in Quantum](https://jobsinquantum.com?utm_source=github&utm_medium=r
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
-| **[Ionq](https://jobsinquantum.com/jobs/ionq-technical-communications-writer-quantum-r-and-d-5071f2f7?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Technical Communications Writer - Quantum R&D](https://jobsinquantum.com/jobs/ionq-technical-communications-writer-quantum-r-and-d-5071f2f7?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Boston, Massachusetts, United States | On Site | Full Time | Nov 14 |
-| **[Ionq](https://jobsinquantum.com/jobs/ionq-technical-programme-manager-manufacturing-and-deployment-6ce42611?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Technical Programme Manager, Manufacturing and Deployment](https://jobsinquantum.com/jobs/ionq-technical-programme-manager-manufacturing-and-deployment-6ce42611?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Bothell, Washington, United States | On Site | Full Time | Nov 14 |
+| **[Ionq](https://jobsinquantum.com/jobs/ionq-technical-communications-writer-quantum-r-and-d-5071f2f7?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Technical Communications Writer - Quantum R&D](https://jobsinquantum.com/jobs/ionq-technical-communications-writer-quantum-r-and-d-5071f2f7?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Boston, Massachusetts, United States | On Site | Full Time | Nov 15 |
+| **[Ionq](https://jobsinquantum.com/jobs/ionq-technical-programme-manager-manufacturing-and-deployment-6ce42611?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Technical Programme Manager, Manufacturing and Deployment](https://jobsinquantum.com/jobs/ionq-technical-programme-manager-manufacturing-and-deployment-6ce42611?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Bothell, Washington, United States | On Site | Full Time | Nov 15 |
+| **[NVIDIA](https://jobsinquantum.com/jobs/nvidia-senior-software-engineer-quantum-simulations-088c642b?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Senior Software Engineer - Quantum Simulations](https://jobsinquantum.com/jobs/nvidia-senior-software-engineer-quantum-simulations-088c642b?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | US, CA, Santa Clara | On Site | Full Time | Nov 14 |
 | **[Quantinuum](https://jobsinquantum.com/jobs/quantinuum-quantum-computer-service-manager-1132-689faf6c?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Quantum Computer Service Manager - 1132](https://jobsinquantum.com/jobs/quantinuum-quantum-computer-service-manager-1132-689faf6c?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | US Brooklyn Park, MN | On Site | Full Time | Nov 13 |
 | **[PsiQuantum](https://jobsinquantum.com/jobs/psiquantum-senior-operations-planning-analyst-0084e81f?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Senior Operations Planning Analyst](https://jobsinquantum.com/jobs/psiquantum-senior-operations-planning-analyst-0084e81f?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Milpitas, California | On Site | Full Time | Nov 13 |
 | **[PsiQuantum](https://jobsinquantum.com/jobs/psiquantum-equipment-controls-engineer-8caa8ae7?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Equipment Controls Engineer](https://jobsinquantum.com/jobs/psiquantum-equipment-controls-engineer-8caa8ae7?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Milpitas, California | On Site | Full Time | Nov 13 |
@@ -61,7 +62,6 @@ Visit [Jobs in Quantum](https://jobsinquantum.com?utm_source=github&utm_medium=r
 | **[Infleqtion](https://jobsinquantum.com/jobs/infleqtion-staff-quantum-physicist-hardware-systems-34479ae1?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Staff Quantum Physicist, Hardware Systems](https://jobsinquantum.com/jobs/infleqtion-staff-quantum-physicist-hardware-systems-34479ae1?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Louisville, United States | On Site | Full Time | Nov 5 |
 | **[Infleqtion](https://jobsinquantum.com/jobs/infleqtion-staff-quantum-physicist-hardware-systems-lead-6cc0787f?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Staff Quantum Physicist, Hardware Systems Lead](https://jobsinquantum.com/jobs/infleqtion-staff-quantum-physicist-hardware-systems-lead-6cc0787f?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Chicago, United States | On Site | Full Time | Nov 5 |
 | **[Quantinuum](https://jobsinquantum.com/jobs/quantinuum-senior-advanced-semiconductor-packaging-engineer-1119-83f1bfa5?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Senior Advanced Semiconductor Packaging Engineer - 1119](https://jobsinquantum.com/jobs/quantinuum-senior-advanced-semiconductor-packaging-engineer-1119-83f1bfa5?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | US Brooklyn Park, MN | On Site | Full Time | Nov 4 |
-| **[Atom Computing](https://jobsinquantum.com/jobs/atom-computing-senior-silicon-systems-engineer-c7507ab1?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Senior Silicon Systems Engineer](https://jobsinquantum.com/jobs/atom-computing-senior-silicon-systems-engineer-c7507ab1?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Austin, TX | On Site | Full Time | Nov 4 |
 
 ---
 
@@ -70,7 +70,7 @@ _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-14 archive](archive/2026-11-14.md)
+- [2026-11-15 archive](archive/2026-11-15.md)
 
 ## About This Repository
 
