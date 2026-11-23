@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Quantum Computing Jobs — 2026
 
-<sub><small>Last updated: Nov 22, 2026 at 19:32 UTC</small></sub>
+<sub><small>Last updated: Nov 23, 2026 at 23:49 UTC</small></sub>
 
 Daily quantum computing jobs curated by Jobs in Quantum.
 Updated daily by [Jobs in Quantum](https://jobsinquantum.com?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs).
@@ -12,8 +12,9 @@ Visit [Jobs in Quantum](https://jobsinquantum.com?utm_source=github&utm_medium=r
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
-| **[Ionq](https://jobsinquantum.com/jobs/ionq-technical-communications-writer-quantum-r-and-d-5071f2f7?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Technical Communications Writer - Quantum R&D](https://jobsinquantum.com/jobs/ionq-technical-communications-writer-quantum-r-and-d-5071f2f7?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Boston, Massachusetts, United States | On Site | Full Time | Nov 22 |
-| **[Ionq](https://jobsinquantum.com/jobs/ionq-technical-programme-manager-manufacturing-and-deployment-6ce42611?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Technical Programme Manager, Manufacturing and Deployment](https://jobsinquantum.com/jobs/ionq-technical-programme-manager-manufacturing-and-deployment-6ce42611?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Bothell, Washington, United States | On Site | Full Time | Nov 22 |
+| **[Ionq](https://jobsinquantum.com/jobs/ionq-technical-communications-writer-quantum-r-and-d-5071f2f7?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Technical Communications Writer - Quantum R&D](https://jobsinquantum.com/jobs/ionq-technical-communications-writer-quantum-r-and-d-5071f2f7?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Boston, Massachusetts, United States | On Site | Full Time | Nov 23 |
+| **[Ionq](https://jobsinquantum.com/jobs/ionq-technical-programme-manager-manufacturing-and-deployment-6ce42611?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Technical Programme Manager, Manufacturing and Deployment](https://jobsinquantum.com/jobs/ionq-technical-programme-manager-manufacturing-and-deployment-6ce42611?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Bothell, Washington, United States | On Site | Full Time | Nov 23 |
+| **[Atom Computing](https://jobsinquantum.com/jobs/atom-computing-human-resources-coordinator-aca88c50?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Human Resources Coordinator](https://jobsinquantum.com/jobs/atom-computing-human-resources-coordinator-aca88c50?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Boulder, CO | On Site | Full Time | Nov 23 |
 | **[Quantinuum](https://jobsinquantum.com/jobs/quantinuum-director-of-government-contracts-1144-e3a4cf45?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Director of Government Contracts - 1144](https://jobsinquantum.com/jobs/quantinuum-director-of-government-contracts-1144-e3a4cf45?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | US Arlington, VA | On Site | Contract | Nov 21 |
 | **[IonQ](https://jobsinquantum.com/jobs/ionq-senior-director-global-payroll-fc7dbda9?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Senior Director, Global Payroll](https://jobsinquantum.com/jobs/ionq-senior-director-global-payroll-fc7dbda9?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Remote, US | Remote | Full Time | Nov 20 |
 | **[IonQ](https://jobsinquantum.com/jobs/ionq-staff-quantum-solution-engineer-chemistry-f2ce6f21?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Staff Quantum Solution Engineer, Chemistry](https://jobsinquantum.com/jobs/ionq-staff-quantum-solution-engineer-chemistry-f2ce6f21?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Göteborg, Västra Götaland, Sweden | On Site | Full Time | Nov 20 |
@@ -61,7 +62,6 @@ Visit [Jobs in Quantum](https://jobsinquantum.com?utm_source=github&utm_medium=r
 | **[PsiQuantum](https://jobsinquantum.com/jobs/psiquantum-senior-cryogenic-system-engineer-2b637559?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Senior Cryogenic System Engineer](https://jobsinquantum.com/jobs/psiquantum-senior-cryogenic-system-engineer-2b637559?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Milpitas, California | On Site | Full Time | Nov 10 |
 | **[PsiQuantum](https://jobsinquantum.com/jobs/psiquantum-senior-characterization-and-test-engineer-64efd075?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Senior Characterization and Test Engineer](https://jobsinquantum.com/jobs/psiquantum-senior-characterization-and-test-engineer-64efd075?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Milpitas, California | On Site | Full Time | Nov 10 |
 | **[PsiQuantum](https://jobsinquantum.com/jobs/psiquantum-senior-fiber-assembly-process-engineer-e0293eef?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Senior Fiber Assembly Process Engineer](https://jobsinquantum.com/jobs/psiquantum-senior-fiber-assembly-process-engineer-e0293eef?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Milpitas, California | On Site | Full Time | Nov 9 |
-| **[PsiQuantum](https://jobsinquantum.com/jobs/psiquantum-director-cryostat-systems-7bf732b2?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | **[Director, Cryostat Systems](https://jobsinquantum.com/jobs/psiquantum-director-cryostat-systems-7bf732b2?utm_source=github&utm_medium=repo&utm_campaign=github-quantum-jobs)** | Milpitas, California | On Site | Full Time | Nov 9 |
 
 ---
 
@@ -70,7 +70,7 @@ _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-22 archive](archive/2026-11-22.md)
+- [2026-11-23 archive](archive/2026-11-23.md)
 
 ## About This Repository
 
